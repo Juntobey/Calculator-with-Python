@@ -14,7 +14,7 @@ def divide(x, y):
     else:
         return x / y
     
-# Test the functions
+
 print("Select operation.")
 
 print("1. Addition")
